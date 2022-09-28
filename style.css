@@ -17,6 +17,7 @@
 @import url('xtext-stroke.css');
 @import url('stroke-shadow.css');
 @import url('scroll-to-top.css');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
 /*
 
 X-Small devices (portrait phones, less than 576px) 
@@ -60,8 +61,8 @@ html {
   --hyperlink-color: #333;
   --hyperlink-alternate-color: orangered;
   --hover-color: #111;
-  --body-typeface: "Inter", sans-serif;
-  --heading-typeface: "Staatliches", cursive;
+  --body-typeface: "Open Sans", sans-serif;
+  --heading-typeface: "Open Sans", sans-serf;
   --off-white: #f8f8ff;
   --isabelline: #f4f0ec;
   --baby-powder: #fefefa;
